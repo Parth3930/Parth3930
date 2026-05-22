@@ -154,4 +154,3 @@ Currently in 2nd year
 [Portfolio](https://iparthsharma.me)  
 [LinkedIn](https://www.linkedin.com/in/itzparthsharma/)
 [Instagram](https://instagram.com/yuno0869)  
-[Discord](https://discord.gg/sauHKcy2Zc)
