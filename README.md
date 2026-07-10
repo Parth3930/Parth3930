@@ -17,10 +17,6 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Parth3930&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
-
-<br>
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth3930&theme=transparent&hide_border=true&ring=E94057&fire=F27121&currStreakNum=E94057&sideNums=E94057&dates=777777" />
 
