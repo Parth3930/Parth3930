@@ -46,6 +46,4 @@
   <a href="mailto:sharmaparth.developer@gmail.com"><img src="https://img.shields.io/badge/Email-FFE600?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
 </p>
 
-**MADE BY PARTH SHARMA © 2026**
-
 </div>
